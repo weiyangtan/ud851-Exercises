@@ -3,6 +3,7 @@ Note to Self:
 - components
 - activity
 - res/layout
+- inflate, inflater
 - threads
 - context
 - intent
