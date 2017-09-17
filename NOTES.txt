@@ -1,0 +1,9 @@
+Note to Self:
+- to be clear on the basic android concepts
+- components
+- activity
+- res/layout
+- threads
+- context
+- intent
+- preferences
